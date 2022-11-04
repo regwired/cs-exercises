@@ -1,1 +1,1 @@
-# recursion-exercises
+# cs-exercises
