@@ -6,7 +6,7 @@ const fibs = (n) => {
     i < 2 ? result.push(i) : result.push(result[result.length - 1] + result[result.length - 2]);
   }
   return result;
-}
+};
 
 console.log(fibs(8));
 
